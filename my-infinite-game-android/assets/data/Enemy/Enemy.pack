@@ -1,0 +1,138 @@
+
+Enemy.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+pokerMad
+  rotate: false
+  xy: 1, 107
+  size: 48, 146
+  orig: 48, 146
+  offset: 0, 0
+  index: -1
+blockerBody
+  rotate: false
+  xy: 1, 54
+  size: 51, 51
+  orig: 51, 51
+  offset: 0, 0
+  index: -1
+playerhurt
+  rotate: false
+  xy: 51, 157
+  size: 75, 96
+  orig: 75, 96
+  offset: 0, 0
+  index: -1
+pokerSad
+  rotate: false
+  xy: 128, 107
+  size: 48, 146
+  orig: 48, 146
+  offset: 0, 0
+  index: -1
+flyFly1
+  rotate: false
+  xy: 51, 119
+  size: 72, 36
+  orig: 72, 36
+  offset: 0, 0
+  index: -1
+flyFly2
+  rotate: false
+  xy: 54, 81
+  size: 72, 36
+  orig: 72, 36
+  offset: 0, 0
+  index: -1
+blockerMad
+  rotate: false
+  xy: 128, 54
+  size: 51, 51
+  orig: 51, 51
+  offset: 0, 0
+  index: -1
+fishDead
+  rotate: false
+  xy: 54, 37
+  size: 66, 42
+  orig: 66, 42
+  offset: 0, 0
+  index: -1
+blockerSad
+  rotate: false
+  xy: 1, 1
+  size: 51, 51
+  orig: 51, 51
+  offset: 0, 0
+  index: -1
+fishSwim2
+  rotate: false
+  xy: 122, 9
+  size: 62, 43
+  orig: 62, 43
+  offset: 0, 0
+  index: -1
+flyDead
+  rotate: false
+  xy: 54, 2
+  size: 59, 33
+  orig: 59, 33
+  offset: 0, 0
+  index: -1
+fishSwim1
+  rotate: false
+  xy: 178, 211
+  size: 66, 42
+  orig: 66, 42
+  offset: 0, 0
+  index: -1
+slimeDead
+  rotate: false
+  xy: 178, 197
+  size: 59, 12
+  orig: 59, 12
+  offset: 0, 0
+  index: -1
+snailWalk2
+  rotate: false
+  xy: 178, 164
+  size: 57, 31
+  orig: 57, 31
+  offset: 0, 0
+  index: -1
+snailWalk1
+  rotate: false
+  xy: 178, 131
+  size: 54, 31
+  orig: 54, 31
+  offset: 0, 0
+  index: -1
+slimeWalk2
+  rotate: false
+  xy: 181, 103
+  size: 51, 26
+  orig: 51, 26
+  offset: 0, 0
+  index: -1
+snailShell
+  rotate: false
+  xy: 181, 71
+  size: 44, 30
+  orig: 44, 30
+  offset: 0, 0
+  index: -1
+slimeWalk1
+  rotate: false
+  xy: 186, 41
+  size: 50, 28
+  orig: 50, 28
+  offset: 0, 0
+  index: -1
+snailShell_upsidedown
+  rotate: false
+  xy: 186, 9
+  size: 44, 30
+  orig: 44, 30
+  offset: 0, 0
+  index: -1

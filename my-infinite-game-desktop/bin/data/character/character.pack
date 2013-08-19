@@ -1,0 +1,82 @@
+
+charcter.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+walk0001
+  rotate: false
+  xy: 1, 1
+  size: 75, 96
+  orig: 75, 96
+  offset: 0, 0
+  index: -1
+walk0011
+  rotate: false
+  xy: 1, 1
+  size: 75, 96
+  orig: 75, 96
+  offset: 0, 0
+  index: -1
+walk0002
+  rotate: false
+  xy: 78, 1
+  size: 75, 96
+  orig: 75, 96
+  offset: 0, 0
+  index: -1
+walk0003
+  rotate: false
+  xy: 155, 1
+  size: 75, 96
+  orig: 75, 96
+  offset: 0, 0
+  index: -1
+walk0004
+  rotate: false
+  xy: 232, 1
+  size: 75, 96
+  orig: 75, 96
+  offset: 0, 0
+  index: -1
+walk0005
+  rotate: false
+  xy: 309, 1
+  size: 75, 96
+  orig: 75, 96
+  offset: 0, 0
+  index: -1
+walk0006
+  rotate: false
+  xy: 386, 1
+  size: 75, 96
+  orig: 75, 96
+  offset: 0, 0
+  index: -1
+walk0007
+  rotate: false
+  xy: 463, 1
+  size: 75, 96
+  orig: 75, 96
+  offset: 0, 0
+  index: -1
+walk0008
+  rotate: false
+  xy: 540, 1
+  size: 75, 96
+  orig: 75, 96
+  offset: 0, 0
+  index: -1
+walk0009
+  rotate: false
+  xy: 617, 1
+  size: 75, 96
+  orig: 75, 96
+  offset: 0, 0
+  index: -1
+walk0010
+  rotate: false
+  xy: 694, 1
+  size: 75, 96
+  orig: 75, 96
+  offset: 0, 0
+  index: -1
